@@ -1,0 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular"
+;
+
+.justified-caption {
+    text-align: justify;
+    color: #9E9E9E
+}
+a.nav-link[href="/blog/"] {
+    display: none;
+}
+.custom-image-size {
+    max-width: 70%;  // You can adjust this as needed
+    margin: auto;  // This centers the image
+    display: block;  // Ensures the margin applies correctly
+}
+
+/* Define color variables for light theme */
+:root {
+  --background-color: white;
+  --text-color: black;
+}
+
+/* Override color variables for dark theme */
+[data-theme='dark'] {
+  --background-color: black;
+  --text-color: white;
+}
+
+/* Use the color variables */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
