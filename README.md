@@ -1,7 +1,9 @@
-<div style="display: flex;">
-  <h1 style="flex: 1;">Enmity Paradox</h1>
-  <img src="images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="50" height="50">
-</div>
+<table style="border: none;">
+  <tr>
+    <td width="50%"><h1>Enmity Paradox</h1></td>
+    <td width="50%" align="right"><img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="50" height="50"></td>
+  </tr>
+</table>
 
 
 > <div class="custom-block">
