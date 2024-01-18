@@ -1,5 +1,5 @@
 
-# Enmity Paradox <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Logo" width="100" height="100">
+# Enmity Paradox <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Logo" width="200" height="200">
 
 > <div class="custom-block">
 > <b>Amir Ghasemian</b>, and Nicholas A. Christakis
