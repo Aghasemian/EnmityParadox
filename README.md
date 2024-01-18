@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center;">
   <h1 style="flex: 1;">Enmity Paradox</h1>
-  <img src="images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="100" height="100">
+  <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="100" height="100">
 </div>
 # Enmity Paradox <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Logo" width="200" height="200">
 
