@@ -1,4 +1,4 @@
-<img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="100" height="100" align="right">
+<img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="200" height="300" align="right">
 
 # Enmity Paradox
 
