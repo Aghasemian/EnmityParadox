@@ -1,9 +1,6 @@
-<table style="border: none;">
-  <tr>
-    <td width="100%"><h1>Enmity Paradox</h1></td>
-    <td width="100%" align="right"><img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="100" height="100"></td>
-  </tr>
-</table>
+<img src="images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="100" height="100" align="right">
+
+# Enmity Paradox
 
 
 > <div class="custom-block">
@@ -23,6 +20,12 @@
         </figcaption>
     </div>
 </div>
+
+<img src="Images/hist_Fig2_5Dec2022_us_final.jpg" alt="example image" class="img-fluid rounded z-depth-1 custom-image-size" width="100%">
+<figcaption style="text-align: justify;">
+    Histograms of $\delta_g$ and $\delta_l$ for undirected (symmetrized) networks among 176 village networks. The histograms of (pure) enmity and friendship paradoxes are provided in panels A and D, respectively. Other panels represent the histograms of enmity paradox strengths for the mixed worlds. The histogram in panel B shows the global and local paradox distributions for the difference between the number of our enemies and the number of enemies of our friends, while panel C represents the difference between the number of our friends and the number of friends of our enemies.
+</figcaption>
+
 
 
 ### Download the package:
