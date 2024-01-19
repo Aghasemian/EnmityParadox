@@ -1,3 +1,8 @@
+<div style="display: flex; flex-direction: column;">
+    <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" style="align-self: flex-end;">
+    <h1>The Enmity Paradox</h1>
+</div>
+
 <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" align="right">
 
 # The Enmity Paradox
