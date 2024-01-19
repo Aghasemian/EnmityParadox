@@ -1,9 +1,13 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div>
-        <h1 style="margin: 0;">The Enmity Paradox</h1>
+<div style="display: flex; flex-direction: column;">
+    <div style="display: flex; justify-content: space-between;">
+        <div>
+            <h1 style="margin: 0;">The Enmity Paradox</h1>
+        </div>
+        <div>
+            <p>A person’s enemies have more enemies, on average, than a person does.</p>
+        </div>
     </div>
-    <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300">
-    A person’s enemies have more enemies, on average, than a person does.
+    <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" style="align-self: flex-end;">
 </div>
 
 
