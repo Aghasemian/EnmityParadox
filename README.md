@@ -5,9 +5,6 @@
     <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300">
 </div>
 
-<img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" align="right">
-
-# The Enmity Paradox
 A person’s enemies have more enemies, on average, than a person does.
 
 > <b>Amir Ghasemian</b>, and Nicholas A. Christakis
