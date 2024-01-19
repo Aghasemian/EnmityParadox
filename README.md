@@ -1,6 +1,6 @@
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" style="align-self: flex-end;">
-    <h1>The Enmity Paradox</h1>
+    <h1 style="margin: 0;">The Enmity Paradox</h1>
 </div>
 
 <img src="Images/en_fr_paradox_village_67_63.jpg" alt="Figure" width="250" height="300" align="right">
