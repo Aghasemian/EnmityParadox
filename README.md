@@ -27,8 +27,8 @@
 
 ### Download the package:
 > <p align="left">
-> <a >To be updated soon.</a></p>
-> <p align="justify"><a style="pointer-events: none;">This package comprises a selected group of 22 signed networks, representing a fraction of the 176 network villages in Honduras.</a></p>
+> <a href="SampleData/22_signed_networks.zip">Download Data</a>.</p>
+> <p align="justify"><a style="pointer-events: none;">This package comprises a selected group of 22 signed networks, representing a fraction of the 176 network villages in Honduras. The data includes the edge list and the corresponding node list of each network.</a></p>
 
 ### Download the code:
 > <p align="left">
