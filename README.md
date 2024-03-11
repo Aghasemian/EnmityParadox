@@ -88,7 +88,7 @@ for vv in village_list:
 > <a >To be updated soon.</a></p>
 > <p align="justify"><a style="pointer-events: none;"></a></p>
 
-### How to Cite This Work:
+### How to cite this work:
 <p>If you use this data in your research, please cite it as follows:</p>
 <pre>
 @article{ghasemian2023enmity,
@@ -98,6 +98,6 @@ for vv in village_list:
   volume = {13},
   issue = {1},
   pages = {20040},
-  year = {2023},
+  year = {2023}
 }
 </pre>
