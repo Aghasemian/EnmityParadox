@@ -87,3 +87,17 @@ for vv in village_list:
 > <p align="left">
 > <a >To be updated soon.</a></p>
 > <p align="justify"><a style="pointer-events: none;"></a></p>
+
+### How to Cite This Work:
+<p>If you use this data in your research, please cite it as follows:</p>
+<pre>
+@article{ghasemian2023enmity,
+  title = {The Enmity Paradox},
+  author = {Ghasemian, Amir and Christakis, Nicholas A},
+  journal = {Scientific Reports},
+  volume = {13},
+  issue = {1},
+  pages = {20040},
+  year = {2023},
+}
+</pre>
