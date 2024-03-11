@@ -37,7 +37,7 @@
 ```python 
 import pandas as pd
 
-# village list (out of 176 villages these villages are released)
+# Village list (out of 176 villages these villages are released)
 village_list = [4, 16, 44, 48, 58, 60, 78, 80, 100, 111, 114, 128, 129, 131, 136, 153, 157, 168, 172, 173, 175, 176]
 
 # Initialize empty DataFrames for nodes and edges
@@ -83,7 +83,7 @@ for vv in village_list:
 > <a >To be updated soon.</a></p>
 > <p align="justify"><a style="pointer-events: none;">The package comprises codes to computate the strengths of enmity, friendship, and the mixed-world paradoxes in the paper.</a></p>
 
-### Instruction for using the package and running the code:
+### Instruction for running the code:
 > <p align="left">
 > <a >To be updated soon.</a></p>
 > <p align="justify"><a style="pointer-events: none;"></a></p>
