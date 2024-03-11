@@ -30,6 +30,54 @@
 > <a href="SampleData/22_signed_networks.zip">Download Data</a>.</p>
 > <p align="justify"><a style="pointer-events: none;">This package comprises a selected group of 22 signed networks, representing a fraction of the 176 network villages in Honduras. The data includes the edge list and the corresponding node list of each network.</a></p>
 
+### Instruction for using the package:
+
+<p align="justify"> To load the data:</p>
+
+```python 
+import pandas as pd
+
+# village list (out of 176 villages these villages are released)
+village_list = [4, 16, 44, 48, 58, 60, 78, 80, 100, 111, 114, 128, 129, 131, 136, 153, 157, 168, 172, 173, 175, 176]
+
+# Initialize empty DataFrames for nodes and edges
+nodes_df = pd.DataFrame(columns=['village', 'node'])
+edges_df = pd.DataFrame(columns=['village', 'source', 'target', 'type'])
+
+# Iterate through each village, loading its node and edge list, and append to the DataFrames
+for vv in village_list:
+    # Correct the file path and variable names, and directly load the CSVs into pandas DataFrames
+    node_list_path = f'./22_signed_networks/tfp_vill_{vv}_dir_nodes.csv'
+    
+    # Assuming the node CSV has a column 'Node' 
+    # Adjust column names as per your actual CSV files
+    temp_nodes_df = pd.read_csv(node_list_path)
+    temp_nodes_df['village'] = vv  # Add a column for village number
+    
+    nodes_df = nodes_df.append(temp_nodes_df, ignore_index=True)
+    
+    # Assuming the edge CSV has columns 'Source' and 'Target'
+    edge_list_path_p = f'./22_signed_networks/tfp_p_vill_{vv}_dir_edges.csv'
+    
+    temp_edges_df = pd.read_csv(edge_list_path_p)
+    temp_edges_df['village'] = vv  # Add a column for village number
+    temp_edges_df['type'] = 'positive'  # Add a column for the type of network
+    
+    # Append to the main DataFrames
+    edges_df = edges_df.append(temp_edges_df, ignore_index=True)
+    
+    # Assuming the edge CSV has columns 'Source' and 'Target'
+    edge_list_path_n = f'./22_signed_networks/tfp_n_vill_{vv}_dir_edges.csv'
+    
+    temp_edges_df = pd.read_csv(edge_list_path_n)
+    temp_edges_df['village'] = vv  # Add a column for village number
+    temp_edges_df['type'] = 'negative'  # Add a column for the type of network
+
+    # Append to the main DataFrames
+    edges_df = edges_df.append(temp_edges_df, ignore_index=True)
+
+```
+
 ### Download the code:
 > <p align="left">
 > <a >To be updated soon.</a></p>
