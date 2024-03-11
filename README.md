@@ -24,14 +24,11 @@
     <p align="justify">Histograms of "paradox strengths" ($\delta_g$ and $\delta_l$) for undirected (symmetrized) networks among 176 village networks. The histograms of (pure) enmity and friendship paradoxes are provided in panels A and D, respectively. Other panels represent the histograms of enmity paradox strengths for the mixed worlds. The histogram in panel B shows the global and local paradox distributions for the difference between the number of our enemies and the number of enemies of our friends, while panel C represents the difference between the number of our friends and the number of friends of our enemies.</p>
 </figcaption>
 
-<!-- Download the package -->
-<p align="left">
-  <a href="SampleData/22_signed_networks.zip" download="22_signed_networks.zip">Download Data</a>.
-</p>
-<p align="justify">
-  This package comprises a selected group of 22 signed networks, representing a fraction of the 176 network villages in Honduras. The data includes the edge list and the corresponding node list of each network.
-</p>
 
+### Download the package:
+> <p align="left">
+> <a href="SampleData/22_signed_networks.zip">Download Data</a>.</p>
+> <p align="justify"><a style="pointer-events: none;">This package comprises a selected group of 22 signed networks, representing a fraction of the 176 network villages in Honduras. The data includes the edge list and the corresponding node list of each network.</a></p>
 
 ### Download the code:
 > <p align="left">
