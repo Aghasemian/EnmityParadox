@@ -13,7 +13,7 @@
 
 
 > <b>Amir Ghasemian</b>, and Nicholas A. Christakis
-> <br><b><a href="https://www.nature.com/articles/s41598-023-47167-9" target="_blank">The Enmity Paradox</a>, Sci Rep 13, 20040 (2023). </b>
+> <br><b><a href="https://www.nature.com/articles/s41598-023-47167-9" target="_blank">The Enmity Paradox</a>, <i>Sci Rep</i> 13, 20040 (2023). </b>
 
 
 <p align="justify">The "friendship paradox" of social networks states that, on average, "your friends have more friends than you do." Here, we theoretically and empirically explore a related and overlooked paradox we refer to as the "enmity paradox." We use empirical data from 24,678 people living in 176 villages in rural Honduras. We empirically show that, for a real negative undirected network (created by symmetrizing antagonistic interactions), the paradox exists as it does in the positive world. Specifically, a person’s enemies have more enemies, on average, than a person does. Furthermore, in a mixed world of positive and negative ties, we study the conditions for the existence of the paradox, which we refer to as the "mixed-world paradox," both theoretically and empirically, finding that, for instance, a person’s friends typically have more enemies than a person does. We also confirm the "generalized" enmity paradox for non-topological attributes in real data, analogous to the generalized friendship paradox (e.g., the claim that a person’s enemies are richer, on average, than a person is). As a consequence, the naturally occurring variance in the degree distribution of both friendship and antagonism in social networks can skew people’s perceptions of the social world.</p>
